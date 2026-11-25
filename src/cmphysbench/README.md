@@ -121,7 +121,7 @@ cd src/cmphysbench && uv run cmphysbench --output-dir ../../datasets/cmphysbench
 harbor run -c src/cmphysbench/cmphysbench_parity_codex.yaml   # repeat for 3 runs
 ```
 
-Links: [adapter PR](https://github.com/harbor-index/adapters/pull/TODO), [dataset PR](https://github.com/laude-institute/harbor-datasets/pull/TODO), [parity artifacts](https://huggingface.co/datasets/harborframework/parity-experiments/discussions/TODO).
+Links: [adapter PR](https://github.com/harbor-index/adapters/pull/45), [dataset PR](https://github.com/laude-institute/harbor-datasets/pull/TODO), [parity artifacts](https://huggingface.co/datasets/harborframework/parity-experiments/discussions/TODO).
 
 ## Notes & Caveats
 

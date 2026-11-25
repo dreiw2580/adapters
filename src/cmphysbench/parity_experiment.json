@@ -10,7 +10,7 @@
     "notes": "TODO: Harbor revision, reasoning_effort, Harbor side on Daytona, original side on local Docker (same image packages, codex version and flags). Metrics are per-run means over 96 tasks; mean +/- sample SEM over runs.",
     "original_parity_repo": "https://github.com/dreiw2580/CMPhysBench/tree/harbor-parity",
     "adapter_pr": [
-      "https://github.com/harbor-index/adapters/pull/TODO"
+      "https://github.com/harbor-index/adapters/pull/45"
     ],
     "dataset_pr": [
       "https://github.com/laude-institute/harbor-datasets/pull/TODO"
