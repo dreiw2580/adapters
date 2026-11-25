@@ -131,7 +131,7 @@ cd src/phybench && uv run phybench --output-dir ../../datasets/phybench && cd ..
 harbor run -c src/phybench/phybench_parity_codex.yaml   # repeat for 3 runs
 ```
 
-Links: [adapter PR](https://github.com/harbor-index/adapters/pull/TODO), [dataset PR](https://github.com/laude-institute/harbor-datasets/pull/TODO), [parity artifacts](https://huggingface.co/datasets/harborframework/parity-experiments/discussions/TODO).
+Links: [adapter PR](https://github.com/harbor-index/adapters/pull/44), [dataset PR](https://github.com/laude-institute/harbor-datasets/pull/TODO), [parity artifacts](https://huggingface.co/datasets/harborframework/parity-experiments/discussions/TODO).
 
 ## Notes & Caveats
 
